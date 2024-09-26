@@ -3,7 +3,7 @@
 Meu nome é Sarah De Andrade Sousa
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem de programação javaScript
+- Estou me desenvolvendo na linguagem de programação javaScript, styles e html
 - Utilizo este campo para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo📫
